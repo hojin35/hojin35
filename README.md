@@ -1,5 +1,8 @@
 ### Hi there 👋
-github-readme-stats.vercel.app/api?username={hojin35}&show_icons=true
+### github-readme-stats.vercel.app/api?username={hojin35}&show_icons=true
+### github-readme-stats.vercel.app/api/top-langs/?username=hojin35&langs_count=8
+
+출처: https://ndb796.tistory.com/512 [안경잡이개발자]
 <!--
 **hojin35/hojin35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
